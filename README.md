@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikhail from Tbilisi.
+- 👋 Hi, I’m Mikhail from Berlin.
 - 🧑‍💻 I write code mostly in Go.
 - 🌱 I’m currently learning Python, DevOps tools and computer science behind scalable web apps.
 - 💞️ I’m looking to collaborate on small, cool, hacky projects.
